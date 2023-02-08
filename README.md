@@ -6,7 +6,7 @@ This project was created for the needs of our Software Engineering lessons in Un
 
 ## Team
 * [Αμπατζίδου Ελισάβετ](https://github.com/ElisavetAmpatzidou)
-* [Δασύρα Ευμορφία-Ελπίδα](https://github.com/EvitaDasyra)
+* [Δασύρα Ευμορφία-Ελπίδα](https://github.com/evitadasy)
 * [Λούστα Αραβέλλα](https://github.com/aravellalousta)
 * [Μιχαλόπουλος Φίλιππος-Ιωάννης](https://github.com/PhilMichalopoulos)
 * [Μούτσα Μικέλ](https://github.com/Mikel-Moutsa)
